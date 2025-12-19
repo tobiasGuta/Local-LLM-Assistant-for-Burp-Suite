@@ -65,6 +65,8 @@ This extension is hardcoded to use the **Dolphin-Mistral** model (an uncensored 
 2.  If you have previously sent a request, it is loaded in context.
 3.  Type any follow-up question in the bottom text box and click **Ask AI**.
 
+https://github.com/user-attachments/assets/f568208b-f406-4b62-8949-db8fe3d87408
+
 ## Privacy Note
 This tool sends HTTP requests from Burp Suite to `http://localhost:11434`.
 * **No data** leaves your local network.
