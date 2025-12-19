@@ -67,5 +67,7 @@ Go to the **Copilot** tab. You will see your request (and response, if available
 * **Local Only:** HTTP requests are sent strictly to `localhost:11434`. No data leaves your machine.
 * **Sanitization:** The extension actively strips `Cookie`, `Authorization`, and `X-API-Key` headers before analysis. This ensures that even if you swap models, PII and credentials are not exposed to the context window history.
 
+<img width="1912" height="1000" alt="image" src="https://github.com/user-attachments/assets/baae2346-4cd5-4310-b4f2-bf655bafe135" />
+
 ## Disclaimer
 This tool is intended for **legal security research and authorized penetration testing only**. It is designed to assist human analysts, not replace them. Use responsibly.
